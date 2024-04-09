@@ -1,6 +1,9 @@
 # kdtree2
+
 A copy of kd-tree implementation in C++ (and Fortran) by Matthew B. Kennel
 
-However, it is not being maintained here. Please reach out the the original author for more. 
+easifem uses kdtree2. Therefore, we decided to develop it further. 
 
-This repo is archived and will not be usable for help.
+You can refer to the original paper by Kennel [here](https://arxiv.org/abs/physics/0408067).
+
+
